@@ -14,7 +14,7 @@
 
 ---
 
-<h2 align="center">🛠️ Tecnologías que estoy aprendiendo</h2>
+<h2>🛠️ Tecnologías que estoy aprendiendo</h2>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
@@ -35,7 +35,7 @@
 
 ---
 
-<h2 align="center">🌱 Ahora mismo</h2>
+<h2>🌱 Ahora mismo</h2>
 
 <p>
   📚 Aprendiendo PHP y bases de datos con MariaDB<br/>
