@@ -2,7 +2,7 @@
 
 <img src="./utp-neon.svg" alt="Ingeniero de Sistemas - Rafael Tantahuatay" width="600" />
 
-Estudié **Ingeniería de Sistemas** en la **Universidad Tecnológica del Perú (UTP)**.
+Estudiante de los últimos ciclos de **Ingeniería de Sistemas** en la **Universidad Tecnológica del Perú (UTP)**.
 Estoy dando mis primeros pasos como desarrollador web: aprendo **frontend** con React y TypeScript, y también estoy empezando con el **backend** usando PHP y MariaDB.
 
 ---
