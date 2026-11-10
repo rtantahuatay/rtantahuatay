@@ -1,6 +1,6 @@
 # Hola, soy Rafael 👋
 
-<img src="./utp-neon.svg" alt="Ingeniero de Sistemas - Universidad Tecnológica del Perú (UTP)" width="600" />
+<img src="./utp-neon.svg" alt="Ingeniero de Sistemas - Rafael Tantahuatay" width="600" text="center" />
 
 Desarrollador **frontend** en formación, enfocado en **React** y **TypeScript**.
 Ahora estoy ampliando mis conocimientos hacia el **backend** con PHP y MariaDB.
