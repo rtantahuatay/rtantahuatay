@@ -30,7 +30,7 @@
 
 <h3 align="center">Herramientas</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Herramientas" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,discord" alt="Herramientas" />
 </p>
 
 ---
