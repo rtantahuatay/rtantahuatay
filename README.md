@@ -1,9 +1,9 @@
-<h1 align="center">Hola, soy Rafael 👋</h1>
+<h1>Hola, soy Rafael 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/rtantahuatay">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1200&color=FF3B3B&center=true&vCenter=true&width=600&height=50&lines=Ingeniero+de+Sistemas;Rafael+Tantahuatay;Frontend+con+React+%2B+TypeScript;Aprendiendo+Backend+con+PHP" alt="Typing SVG" />
-  </a>
+  <img src="./neon-title.svg" alt="Rafael Tantahuatay - Ingeniero de Sistemas" width="700" />
+</p>
+
 </p>
 
 <p>
