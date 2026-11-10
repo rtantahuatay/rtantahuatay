@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center">
+<p>
   Estudiante de los últimos ciclos de <b>Ingeniería de Sistemas</b> en la <b>Universidad Tecnológica del Perú (UTP)</b>.<br/>
   Estoy dando mis primeros pasos como desarrollador web: aprendo <b>frontend</b> con React y TypeScript,
   y también estoy empezando con el <b>backend</b> usando PHP y MariaDB.
