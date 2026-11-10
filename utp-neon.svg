@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="100" viewBox="0 0 700 100">
+  <defs>
+    <filter id="neon" x="-20%" y="-60%" width="140%" height="220%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="glowCerca" />
+      <feGaussianBlur in="SourceGraphic" stdDeviation="9" result="glowLejos" />
+      <feMerge>
+        <feMergeNode in="glowLejos" />
+        <feMergeNode in="glowCerca" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    text {
+      font-family: "Segoe UI", Arial, sans-serif;
+      font-weight: 700;
+      fill: #ff2b2b;
+    }
+    .parpadeo {
+      animation: parpadeo 5s infinite;
+    }
+    @keyframes parpadeo {
+      0%, 18%, 22%, 25%, 53%, 57%, 100% { opacity: 1; }
+      20%, 24%, 55% { opacity: 0.45; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .parpadeo { animation: none; }
+    }
+  </style>
+
+  <g class="parpadeo" filter="url(#neon)">
+    <text x="350" y="42" text-anchor="middle" font-size="34">Ingeniero de Sistemas</text>
+    <text x="350" y="82" text-anchor="middle" font-size="22">Universidad Tecnológica del Perú (UTP)</text>
+  </g>
+</svg>
