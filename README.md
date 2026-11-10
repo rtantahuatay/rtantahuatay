@@ -1,6 +1,6 @@
 # Hola, soy Rafael 👋
 
-🎓 **Ingeniero de Sistemas** de la **Universidad Tecnológica del Perú (UTP)**.
+<img src="./utp-neon.svg" alt="Ingeniero de Sistemas - Universidad Tecnológica del Perú (UTP)" width="600" />
 
 Desarrollador **frontend** en formación, enfocado en **React** y **TypeScript**.
 Ahora estoy ampliando mis conocimientos hacia el **backend** con PHP y MariaDB.
