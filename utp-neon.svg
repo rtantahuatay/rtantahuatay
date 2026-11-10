@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="100" viewBox="0 0 700 100">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="70" viewBox="0 0 760 70">
   <defs>
     <filter id="neon" x="-20%" y="-60%" width="140%" height="220%">
       <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="glowCerca" />
@@ -30,7 +30,6 @@
   </style>
 
   <g class="parpadeo" filter="url(#neon)">
-    <text x="350" y="42" text-anchor="middle" font-size="34">Ingeniero de Sistemas</text>
-    <text x="350" y="82" text-anchor="middle" font-size="22">Rafael Tantahuatay</text>
+    <text x="380" y="45" text-anchor="middle" font-size="30">Ingeniero de Sistemas - Rafael Tantahuatay</text>
   </g>
 </svg>
