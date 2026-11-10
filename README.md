@@ -37,7 +37,7 @@
 
 <h2 align="center">🌱 Ahora mismo</h2>
 
-<p align="center">
+<p>
   📚 Aprendiendo PHP y bases de datos con MariaDB<br/>
   🧪 Practicando con APIs<br/>
   ⚛️ Construyendo proyectos con React + TypeScript
