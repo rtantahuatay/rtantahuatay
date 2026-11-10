@@ -27,16 +27,19 @@
 
 
 <h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql" alt="Backend" />
-  <br/>
-  <sub>PHP · MariaDB (compatible con MySQL)</sub>
-</p>
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
 
 <h3 align="center">Herramientas</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,discord,netlify" alt="Herramientas" />
-</p>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
 
 ---
 
